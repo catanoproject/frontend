@@ -8,3 +8,4 @@ node_modules
 webkitbuilds
 build
 tmp
+package-lock.json
